@@ -15,5 +15,3 @@ O objetivo do segundo projeto é criar uma função que permita buscas de certas
 do Supremo Tribunal Federal - são 1001 decisões que estão em "decisoes.rar".
 
 O meu código está em "Projeto 2 - completo.py".
-
-A conclusão desses projetos mostra algum nível de perícia em automação de documentos e expressões regulares (regex) em Python 3.x.
