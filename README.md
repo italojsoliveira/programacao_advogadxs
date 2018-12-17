@@ -4,8 +4,7 @@ na Escola de Direito da Fundação Getúlio Vargas, Rio de Janeiro.
 
 A descrição do primeiro projeto está em "trabalho 1 - geracao automatizada de habeas corpus.pdf".
 
-O objetivo desse primeiro projeto é criar um código em Python que seja capaz de gerar um documento de Habeas Corpus (em formato txt)
-apropriada para cada caso do cliente registrado na tabela csv.
+O objetivo desse primeiro projeto é criar um código em Python que seja capaz de gerar automaticamente um documento de Habeas Corpus (em formato txt) apropriado para cada caso do cliente registrado na tabela csv.
 
 O meu código está em "Projeto 1 completo.py".
 
